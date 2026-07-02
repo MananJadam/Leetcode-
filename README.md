@@ -68,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MananJadam/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MananJadam/Leetcode-/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MananJadam/Leetcode-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MananJadam/Leetcode-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
