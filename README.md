@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MananJadam/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MananJadam/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MananJadam/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/MananJadam/Leetcode-/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MananJadam/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/MananJadam/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MananJadam/Leetcode-/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MananJadam/Leetcode-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
