@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananJadam/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MananJadam/Leetcode-/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -130,9 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/MananJadam/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MananJadam/Leetcode-/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MananJadam/Leetcode-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/MananJadam/Leetcode-/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
