@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MananJadam/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MananJadam/Leetcode-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/MananJadam/Leetcode-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MananJadam/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MananJadam/Leetcode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MananJadam/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MananJadam/Leetcode-/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MananJadam/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MananJadam/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MananJadam/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MananJadam/Leetcode-/tree/master/0242-valid-anagram) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MananJadam/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
