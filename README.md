@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananJadam/Leetcode-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/MananJadam/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MananJadam/Leetcode-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MananJadam/Leetcode-/tree/master/0205-isomorphic-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MananJadam/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MananJadam/Leetcode-/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/MananJadam/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MananJadam/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MananJadam/Leetcode-/tree/master/0242-valid-anagram) |
