@@ -20,12 +20,14 @@ public:
             temp = temp->next;
         }
 
-        int middle = count / 2;
+        int middle = (count / 2)+1;
 
         temp = head;
 
        
-        while (middle--) {
+        while (temp!=NULL) {
+            middle--;
+            if(middle==0)break;
             temp = temp->next;
         }
 
