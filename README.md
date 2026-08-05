@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MananJadam/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MananJadam/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MananJadam/Leetcode-/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MananJadam/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MananJadam/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MananJadam/Leetcode-/tree/master/0875-koko-eating-bananas) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MananJadam/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MananJadam/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MananJadam/Leetcode-/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MananJadam/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/MananJadam/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MananJadam/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MananJadam/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MananJadam/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MananJadam/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MananJadam/Leetcode-/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
