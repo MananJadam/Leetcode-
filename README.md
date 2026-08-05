@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/MananJadam/Leetcode-/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MananJadam/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+| [3310-remove-methods-from-project](https://github.com/MananJadam/Leetcode-/tree/master/3310-remove-methods-from-project) |
 ## Linked List
 |  |
 | ------- |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MananJadam/Leetcode-/tree/master/0503-next-greater-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/MananJadam/Leetcode-/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
