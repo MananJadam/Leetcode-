@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MananJadam/Leetcode-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/MananJadam/Leetcode-/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MananJadam/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/MananJadam/Leetcode-/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MananJadam/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
