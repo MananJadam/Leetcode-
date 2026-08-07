@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MananJadam/Leetcode-/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MananJadam/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MananJadam/Leetcode-/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MananJadam/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/MananJadam/Leetcode-/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MananJadam/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
