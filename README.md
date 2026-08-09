@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananJadam/Leetcode-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MananJadam/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/MananJadam/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/MananJadam/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MananJadam/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MananJadam/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MananJadam/Leetcode-/tree/master/0014-longest-common-prefix) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MananJadam/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MananJadam/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
