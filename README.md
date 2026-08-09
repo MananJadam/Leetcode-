@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MananJadam/Leetcode-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/MananJadam/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MananJadam/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MananJadam/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/MananJadam/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MananJadam/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/MananJadam/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananJadam/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MananJadam/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MananJadam/Leetcode-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/MananJadam/Leetcode-/tree/master/0069-sqrtx) |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MananJadam/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MananJadam/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -294,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MananJadam/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
