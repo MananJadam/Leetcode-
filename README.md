@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MananJadam/Leetcode-/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/MananJadam/Leetcode-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/MananJadam/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MananJadam/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MananJadam/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/MananJadam/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MananJadam/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MananJadam/Leetcode-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/MananJadam/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MananJadam/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MananJadam/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Greedy
 |  |
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MananJadam/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
