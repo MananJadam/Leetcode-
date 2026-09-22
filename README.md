@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MananJadam/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MananJadam/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananJadam/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/MananJadam/Leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/MananJadam/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MananJadam/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/MananJadam/Leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/MananJadam/Leetcode-/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/MananJadam/Leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
