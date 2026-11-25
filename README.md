@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MananJadam/Leetcode-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/MananJadam/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MananJadam/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/MananJadam/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MananJadam/Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MananJadam/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MananJadam/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MananJadam/Leetcode-/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MananJadam/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MananJadam/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MananJadam/Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MananJadam/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MananJadam/Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MananJadam/Leetcode-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MananJadam/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MananJadam/Leetcode-/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -406,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/MananJadam/Leetcode-/tree/master/3934-smallest-unique-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
