@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MananJadam/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/MananJadam/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MananJadam/Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MananJadam/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/MananJadam/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MananJadam/Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -414,5 +416,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/MananJadam/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
