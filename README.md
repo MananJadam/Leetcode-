@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MananJadam/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MananJadam/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MananJadam/Leetcode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MananJadam/Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MananJadam/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MananJadam/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MananJadam/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MananJadam/Leetcode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MananJadam/Leetcode-/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/MananJadam/Leetcode-/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -447,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/MananJadam/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MananJadam/Leetcode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MananJadam/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MananJadam/Leetcode-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
