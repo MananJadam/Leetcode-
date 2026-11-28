@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/MananJadam/Leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/MananJadam/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/MananJadam/Leetcode-/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MananJadam/Leetcode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MananJadam/Leetcode-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananJadam/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/MananJadam/Leetcode-/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MananJadam/Leetcode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MananJadam/Leetcode-/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/MananJadam/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MananJadam/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MananJadam/Leetcode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MananJadam/Leetcode-/tree/master/0547-number-of-provinces) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MananJadam/Leetcode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
